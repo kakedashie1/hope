@@ -1,0 +1,22 @@
+
+
+.title {
+  text-align: center;
+}
+
+.entryTitle {
+  text-align: center;
+}
+
+
+.mainWrapper {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.formWrapper {
+  text-align: center;
+}
+.submitWrapper {
+  text-align: center;
+}
